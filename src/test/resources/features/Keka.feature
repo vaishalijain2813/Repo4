@@ -7,7 +7,7 @@ Feature: Automate Keka Tool
     Then verify left pane link and home components
     Examples:
       | email                         | password  |
-      | vaishali.jain@successive.tech | VAIjai13@ |
+      | vaishali.jain@successe.co | 12345678 |
 
     Scenario: Click on Link Me and select "Attendance" and verify "Attendance Log functionality" by verifying Last 30 and month wise data.
       Given Click on Me and select Attendance.
